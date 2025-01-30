@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\Bar program (if-else)\Bar program (if-else)\bin\Debug\Bar program (if-else).exe.config
+C:\Users\1\source\repos\Bar program (if-else)\Bar program (if-else)\bin\Debug\Bar program (if-else).exe
+C:\Users\1\source\repos\Bar program (if-else)\Bar program (if-else)\bin\Debug\Bar program (if-else).pdb
+C:\Users\1\source\repos\Bar program (if-else)\Bar program (if-else)\obj\Debug\Bar program (if-else).csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Bar program (if-else)\Bar program (if-else)\obj\Debug\Bar program (if-else).csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Bar program (if-else)\Bar program (if-else)\obj\Debug\Bar program (if-else).exe
+C:\Users\1\source\repos\Bar program (if-else)\Bar program (if-else)\obj\Debug\Bar program (if-else).pdb
